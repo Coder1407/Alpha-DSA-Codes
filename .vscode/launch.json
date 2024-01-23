@@ -1,0 +1,294 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "IV_Anagrams",
+            "request": "launch",
+            "mainClass": "Exercise.IV_Anagrams",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "I_LowerCaseVowels",
+            "request": "launch",
+            "mainClass": "Exercise.I_LowerCaseVowels",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "III_ArrayBacktracking",
+            "request": "launch",
+            "mainClass": "III_ArrayBacktracking",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "III_EvenOdd",
+            "request": "launch",
+            "mainClass": "III_EvenOdd",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "III_StringLength",
+            "request": "launch",
+            "mainClass": "III_StringLength",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "III_one_to_n",
+            "request": "launch",
+            "mainClass": "III_one_to_n",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "II_InputOutput",
+            "request": "launch",
+            "mainClass": "II_InputOutput",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "II_Largest",
+            "request": "launch",
+            "mainClass": "II_Largest",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "II_one_to_ten",
+            "request": "launch",
+            "mainClass": "II_one_to_ten",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "IV_StringConcatenation",
+            "request": "launch",
+            "mainClass": "IV_StringConcatenation",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "IV_eleseif",
+            "request": "launch",
+            "mainClass": "IV_eleseif",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "IV_sum_one_to_n",
+            "request": "launch",
+            "mainClass": "IV_sum_one_to_n",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "IX_Calculator",
+            "request": "launch",
+            "mainClass": "IX_Calculator",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "IX_Substring",
+            "request": "launch",
+            "mainClass": "IX_Substring",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "IX_do_while",
+            "request": "launch",
+            "mainClass": "IX_do_while",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "I_Inroduction",
+            "request": "launch",
+            "mainClass": "I_Inroduction",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "I_MergeSort",
+            "request": "launch",
+            "mainClass": "I_MergeSort",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "I_ifelse",
+            "request": "launch",
+            "mainClass": "I_ifelse",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "I_whileloop",
+            "request": "launch",
+            "mainClass": "I_whileloop",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VIII_Comparision",
+            "request": "launch",
+            "mainClass": "VIII_Comparision",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VIII_Store_Reverse",
+            "request": "launch",
+            "mainClass": "VIII_Store_Reverse",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VIII_switch",
+            "request": "launch",
+            "mainClass": "VIII_switch",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VII_Print_Reverse",
+            "request": "launch",
+            "mainClass": "VII_Print_Reverse",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VII_ShortestPath",
+            "request": "launch",
+            "mainClass": "VII_ShortestPath",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VII_Ternary",
+            "request": "launch",
+            "mainClass": "VII_Ternary",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VI_Palindrome",
+            "request": "launch",
+            "mainClass": "VI_Palindrome",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VI_largestof3",
+            "request": "launch",
+            "mainClass": "VI_largestof3",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "VI_square_pattern",
+            "request": "launch",
+            "mainClass": "VI_square_pattern",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "V_charAt",
+            "request": "launch",
+            "mainClass": "V_charAt",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "V_for_loop",
+            "request": "launch",
+            "mainClass": "V_for_loop",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "V_incometax",
+            "request": "launch",
+            "mainClass": "V_incometax",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "XIII_continue_question",
+            "request": "launch",
+            "mainClass": "XIII_continue_question",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "XII_StringCompression",
+            "request": "launch",
+            "mainClass": "XII_StringCompression",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "XII_continue",
+            "request": "launch",
+            "mainClass": "XII_continue",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "XIV_Prime",
+            "request": "launch",
+            "mainClass": "XIV_Prime",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "XI_LetterUpperCase",
+            "request": "launch",
+            "mainClass": "XI_LetterUpperCase",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "XI_break_question",
+            "request": "launch",
+            "mainClass": "XI_break_question",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "XX_LeapYear",
+            "request": "launch",
+            "mainClass": "XX_LeapYear",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "X_LargestString",
+            "request": "launch",
+            "mainClass": "X_LargestString",
+            "projectName": "Alpha Codes_c48c28ec"
+        },
+        {
+            "type": "java",
+            "name": "X_break",
+            "request": "launch",
+            "mainClass": "X_break",
+            "projectName": "Alpha Codes_c48c28ec"
+        }
+    ]
+}
