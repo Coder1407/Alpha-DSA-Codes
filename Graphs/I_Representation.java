@@ -30,7 +30,7 @@ public class I_Representation {
         //print all edges
         for(int i=0; i<n; i++) {
             for(int j=0; j<adj.get(i).size(); j++) {
-                System.out.print(adj.get(i).get(i));
+                System.out.print(adj.get(i).get(j)+" ");
             }
         }
         System.out.println();
